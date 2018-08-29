@@ -1,9 +1,11 @@
-Capitain:
-Cook:
+Capitain: Maíra 
+Cook: Roberto
 Pilot:
-Cleaner:
-Guests:
-...
+Cleaner: Quinten C.
+Guests: Annelinde
+-Riwaj
 ...
 ...
 etc
+Cargo:
+-water
