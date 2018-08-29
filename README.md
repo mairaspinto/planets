@@ -7,4 +7,4 @@ I will need the following:
   - a ship to get us there
   - a crew and a ship
   
-  This is written in [Markdown][https://daringfireball.net/projects/markdown/syntax]
+  This is written in [Markdown](https://daringfireball.net/projects/markdown/syntax])
